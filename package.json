@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/p3140/hnfeed/issues"
   },
-  "homepage": "https://github.com/p3140/hnfeed#readme"
+  "homepage": "https://github.com/p3140/hnfeed#readme",
+  "dependencies": {
+    "koa": "^2.5.3",
+    "koa-router": "^7.4.0"
+  }
 }
