@@ -1,0 +1,19 @@
+{
+  "name": "hnfeed",
+  "version": "1.0.0",
+  "description": "Shows recently posted articles about Node.js on Hacker News",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/p3140/hnfeed.git"
+  },
+  "author": "José María Sanhueza Solovera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/p3140/hnfeed/issues"
+  },
+  "homepage": "https://github.com/p3140/hnfeed#readme"
+}
